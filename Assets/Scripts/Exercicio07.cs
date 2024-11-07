@@ -6,7 +6,7 @@ public class Exercicio07 : MonoBehaviour
     void Start()
     {
         faces = Random.Range(4, 20);
-        print(faces);
+        print(faces); 
         
     }
 
